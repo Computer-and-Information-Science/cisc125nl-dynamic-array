@@ -1,2 +1,3 @@
-# cpp-debug
-Build/Run/Debug C++ File with Codespaces
+# Dynamic Array
+
+A template class that functions as a dynamic array.
